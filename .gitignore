@@ -1,0 +1,20 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore logs
+*.log
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# VSCode
+.vscode/
+
+# build outputs
+target/
+bin/
+out/
+
+# macOS Finder
+.DS_Store
